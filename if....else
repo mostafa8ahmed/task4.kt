@@ -1,0 +1,9 @@
+package Taskk1
+
+fun main(){
+     val pi= readln().toFloat()
+    if (pi==3.14f)
+        println("The value of pi is [$pi]")
+    else
+        println("not found")
+}
